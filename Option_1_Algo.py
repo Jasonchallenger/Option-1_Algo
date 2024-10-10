@@ -41,4 +41,6 @@ def find_dup_lame(array):
             if array[i]==array[j]:#check for match
                 print(array[i])
 # time complexity of O(n^2), terrible algorithm
+#Input: [3, 1, 2, 5, 6, 9, 2, 4, 8, 7]
+#Output: 2 for both functions
 #%%
